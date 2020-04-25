@@ -1,0 +1,65 @@
+.mcol1{
+  grid-area:mcol1;
+  background-color: green;
+  height:100%;
+  display: flex;
+  justify-content: left;
+  flex-wrap: wrap;
+  align-items:flex-start;
+  padding: 10px;
+  height: 100%;
+}
+
+.sidebar2{
+  margin-top: -100px;
+}
+
+.sidebar3{
+  margin-top: -250px;
+}
+
+.sidebar4{
+  margin-top: -400px;
+}
+
+#CSE button,p{
+  display: inline-block;
+  padding: 0.05px;
+}
+
+#CSE1 p{
+  padding: 0.05px;
+  margin-left: 45px;
+  margin-top: -100px;
+}
+
+#IT button,p{
+  display: inline-block;
+  padding: 0.05px;
+}
+
+#IT1 p{
+  padding: 0.05px;
+  margin-left: 45px;
+  margin-top: -100px;
+}
+#ME button,p{
+  display: inline-block;
+  padding: 0.05px;
+}
+
+#ME1 p{
+  padding: 0.05px;
+  margin-left: 45px;
+  margin-top: -100px;
+}
+#EC button,p{
+  display: inline-block;
+  padding: 0.05px;
+}
+
+#EC1 p{
+  padding: 0.05px;
+  margin-left: 45px;
+  margin-top: -100px;
+}

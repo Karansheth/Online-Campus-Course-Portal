@@ -1,0 +1,225 @@
+.mcol3{
+  grid-area:mcol3;
+  background-color: green;
+  height:100%;
+  display: flex;
+  justify-content: left;
+  flex-wrap: wrap;
+  height: 100%;
+}
+
+#sidebarR1{
+  margin: 10px;
+  padding: 0.05px;
+  display: block;
+  align-content: flex-start;
+}
+#sidebarR11{
+  margin-top: -500px;
+  margin-left: 100px;
+  padding: 0.05px;
+}
+
+#sidebarR2{
+  margin: -240px 10px 10px 10px;
+  padding: 0.05px;
+  display: block;s
+}
+#sidebarR21{
+  margin-top: -200px;
+  margin-left: 50px;
+  margin-right: 10px;
+  padding: 0.05px;
+}
+
+#sidebarR3{
+  margin: -240px 10px 10px 10px;
+  padding: 0.05px;
+  display: block;
+}
+#sidebarR31{
+  margin-top: -200px;
+  margin-left: 50px;
+  margin-right: 10px;
+  padding: 0.05px;
+}
+
+#sidebarR4{
+  margin: -240px 10px 10px 10px;
+  padding: 0.05px;
+  display: block;
+}
+#sidebarR41{
+  margin-top: -200px;
+  margin-left: 50px;
+  margin-right: 10px;
+  padding: 0.05px;
+}
+
+#sidebarR5{
+  margin: -240px 10px 10px 10px;
+  padding: 0.05px;
+  display: block;
+}
+#sidebarR51{
+  margin-top: -200px;
+  margin-left: 50px;
+  margin-right: 10px;
+  padding: 0.05px;
+}
+
+#sidebarR6{
+  margin: 5px 10px 10px 10px;
+  padding: 0.05px;
+  display: block;
+}
+#sidebarR61{
+  margin-top: -200px;
+  margin-left: 50px;
+  margin-right: 10px;
+  padding: 0.05px;
+}
+
+#sidebarR7{
+  margin: -240px 10px 10px 10px;
+  padding: 0.05px;
+  display: block;
+}
+#sidebarR71{
+  margin-top: -250px;
+  margin-left: 50px;
+  margin-right: 10px;
+  padding: 0.05px;
+}
+
+#sidebarR8{
+  margin: -240px 10px 10px 10px;
+  padding: 0.05px;
+  display: block;
+}
+#sidebarR81{
+  margin-top: -200px;
+  margin-left: 50px;
+  margin-right: 10px;
+  padding: 0.05px;
+}
+
+#sidebarR9{
+  margin: -240px 10px 10px 10px;
+  padding: 0.05px;
+  display: block;
+}
+#sidebarR91{
+  margin-top: -200px;
+  margin-left: 50px;
+  margin-right: 10px;
+  padding: 0.05px;
+}
+
+#sidebarR10{
+  margin: -240px 10px 10px 10px;
+  padding: 0.05px;
+  display: block;
+}
+#sidebarR101{
+  margin-top: -200px;
+  margin-left: 50px;
+  margin-right: 10px;
+  padding: 0.05px;
+}
+
+#sidebarR11{
+  margin: -240px 10px 10px 10px;
+  padding: 0.05px;
+  display: block;
+}
+#sidebarR111{
+  margin-top: -200px;
+  margin-left: 50px;
+  margin-right: 10px;
+  padding: 0.05px;
+}
+
+#sidebarR12{
+  margin: -240px 10px 10px 10px;
+  padding: 0.05px;
+  display: block;
+}
+#sidebarR121{
+  margin-top: -200px;
+  margin-left: 50px;
+  margin-right: 10px;
+  padding: 0.05px;
+}
+
+#sidebarR13{
+  margin: -240px 10px 10px 10px;
+  padding: 0.05px;
+  display: block;
+}
+#sidebarR131{
+  margin-top: -200px;
+  margin-left: 50px;
+  margin-right: 10px;
+  padding: 0.05px;
+}
+
+#sidebarR14{
+  margin: -240px 10px 10px 10px;
+  padding: 0.05px;
+  display: block;
+}
+#sidebarR141{
+  margin-top: -200px;
+  margin-left: 50px;
+  margin-right: 10px;
+  padding: 0.05px;
+}
+
+#sidebarR15{
+  margin: -240px 10px 10px 10px;
+  padding: 0.05px;
+  display: block;
+}
+#sidebarR151{
+  margin-top: -200px;
+  margin-left: 50px;
+  margin-right: 10px;
+  padding: 0.05px;
+}
+
+#sidebarR16{
+  margin: -240px 10px 10px 10px;
+  padding: 0.05px;
+  display: block;
+}
+#sidebarR161{
+  margin-top: -200px;
+  margin-left: 50px;
+  margin-right: 10px;
+  padding: 0.05px;
+}
+
+#sidebarR17{
+  margin: -240px 10px 10px 10px;
+  padding: 0.05px;
+  display: block;
+}
+#sidebarR171{
+  margin-top: -200px;
+  margin-left: 50px;
+  margin-right: 10px;
+  padding: 0.05px;
+}
+
+#sidebarR18{
+  margin: -240px 10px 10px 10px;
+  padding: 0.05px;
+  display: block;
+}
+#sidebarR181{
+  margin-top: -200px;
+  margin-left: 50px;
+  margin-right: 10px;
+  padding: 0.05px;
+}
