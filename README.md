@@ -1,4 +1,4 @@
-Online Course Portal
-The main goal of this project is to build on the engineering and core science courses. An additional video courses were created in all major branches of engineering. User can perform the functionalities like select course, attempt the quiz as well as Admin side admin can perform the functionalities like adding course, talk to students under their course,etc. Several improvements such as indexing of all video and web courses and keyword search will be implemented in future.
+Campus Online Course Portal
+The aim of this project was to make a portal where students can learn subjects of their interest from the expert faculty of that domain. The registered students are allowed to enroll in any course to access the Video Lectures, Class Notes, and any other reference material uploaded by the faculty members for that particular course. The students are required to complete the quiz with more than 80% correct answers to move to the next section in the enrolled course.
 
 
